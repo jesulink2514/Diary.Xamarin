@@ -44,5 +44,10 @@ namespace Diary
 			else 
 				DisplayAlert ("Create account Failed", "Unable to create a new account - does this account already exist?", "OK");
 		}
+
+	    private void LoginFingerprint(object sender, EventArgs e)
+	    {
+	        
+	    }
 	}
 }

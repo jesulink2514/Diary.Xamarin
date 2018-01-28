@@ -74,5 +74,10 @@ namespace Diary
                 CryptoUtilities.StringToByteArray(diaryText), 
                 keyMaterial);
 		}
+
+	    protected override void OnAppearing()
+	    {
+	        this.editorEntry.Focus();
+	    }
 	}
 }

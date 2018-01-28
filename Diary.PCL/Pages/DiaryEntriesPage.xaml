@@ -23,7 +23,7 @@
 	</ListView>
 
     <ContentPage.ToolbarItems>
-        <ToolbarItem x:Name="btnAddDiaryEntry" Text="+" />
+        <ToolbarItem x:Name="btnAddDiaryEntry" Text="New" />
         <ToolbarItem Text="Settings"  Icon="settings.png" Clicked="BtnSettingsClicked"/>
     </ContentPage.ToolbarItems>
 </ContentPage>

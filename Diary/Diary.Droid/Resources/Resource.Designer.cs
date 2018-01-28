@@ -1279,44 +1279,44 @@ namespace Diary.Droid
 		public partial class Color
 		{
 			
-			// aapt resource value: 0x7f0c004b
-			public const int abc_background_cache_hint_selector_material_dark = 2131492939;
-			
-			// aapt resource value: 0x7f0c004c
-			public const int abc_background_cache_hint_selector_material_light = 2131492940;
-			
-			// aapt resource value: 0x7f0c004d
-			public const int abc_btn_colored_borderless_text_material = 2131492941;
-			
-			// aapt resource value: 0x7f0c004e
-			public const int abc_btn_colored_text_material = 2131492942;
-			
 			// aapt resource value: 0x7f0c004f
-			public const int abc_color_highlight_material = 2131492943;
+			public const int abc_background_cache_hint_selector_material_dark = 2131492943;
 			
 			// aapt resource value: 0x7f0c0050
-			public const int abc_hint_foreground_material_dark = 2131492944;
+			public const int abc_background_cache_hint_selector_material_light = 2131492944;
 			
 			// aapt resource value: 0x7f0c0051
-			public const int abc_hint_foreground_material_light = 2131492945;
+			public const int abc_btn_colored_borderless_text_material = 2131492945;
+			
+			// aapt resource value: 0x7f0c0052
+			public const int abc_btn_colored_text_material = 2131492946;
+			
+			// aapt resource value: 0x7f0c0053
+			public const int abc_color_highlight_material = 2131492947;
+			
+			// aapt resource value: 0x7f0c0054
+			public const int abc_hint_foreground_material_dark = 2131492948;
+			
+			// aapt resource value: 0x7f0c0055
+			public const int abc_hint_foreground_material_light = 2131492949;
 			
 			// aapt resource value: 0x7f0c0004
 			public const int abc_input_method_navigation_guard = 2131492868;
 			
-			// aapt resource value: 0x7f0c0052
-			public const int abc_primary_text_disable_only_material_dark = 2131492946;
-			
-			// aapt resource value: 0x7f0c0053
-			public const int abc_primary_text_disable_only_material_light = 2131492947;
-			
-			// aapt resource value: 0x7f0c0054
-			public const int abc_primary_text_material_dark = 2131492948;
-			
-			// aapt resource value: 0x7f0c0055
-			public const int abc_primary_text_material_light = 2131492949;
-			
 			// aapt resource value: 0x7f0c0056
-			public const int abc_search_url_text = 2131492950;
+			public const int abc_primary_text_disable_only_material_dark = 2131492950;
+			
+			// aapt resource value: 0x7f0c0057
+			public const int abc_primary_text_disable_only_material_light = 2131492951;
+			
+			// aapt resource value: 0x7f0c0058
+			public const int abc_primary_text_material_dark = 2131492952;
+			
+			// aapt resource value: 0x7f0c0059
+			public const int abc_primary_text_material_light = 2131492953;
+			
+			// aapt resource value: 0x7f0c005a
+			public const int abc_search_url_text = 2131492954;
 			
 			// aapt resource value: 0x7f0c0005
 			public const int abc_search_url_text_normal = 2131492869;
@@ -1327,29 +1327,32 @@ namespace Diary.Droid
 			// aapt resource value: 0x7f0c0007
 			public const int abc_search_url_text_selected = 2131492871;
 			
-			// aapt resource value: 0x7f0c0057
-			public const int abc_secondary_text_material_dark = 2131492951;
-			
-			// aapt resource value: 0x7f0c0058
-			public const int abc_secondary_text_material_light = 2131492952;
-			
-			// aapt resource value: 0x7f0c0059
-			public const int abc_tint_btn_checkable = 2131492953;
-			
-			// aapt resource value: 0x7f0c005a
-			public const int abc_tint_default = 2131492954;
-			
 			// aapt resource value: 0x7f0c005b
-			public const int abc_tint_edittext = 2131492955;
+			public const int abc_secondary_text_material_dark = 2131492955;
 			
 			// aapt resource value: 0x7f0c005c
-			public const int abc_tint_seek_thumb = 2131492956;
+			public const int abc_secondary_text_material_light = 2131492956;
 			
 			// aapt resource value: 0x7f0c005d
-			public const int abc_tint_spinner = 2131492957;
+			public const int abc_tint_btn_checkable = 2131492957;
 			
 			// aapt resource value: 0x7f0c005e
-			public const int abc_tint_switch_track = 2131492958;
+			public const int abc_tint_default = 2131492958;
+			
+			// aapt resource value: 0x7f0c005f
+			public const int abc_tint_edittext = 2131492959;
+			
+			// aapt resource value: 0x7f0c0060
+			public const int abc_tint_seek_thumb = 2131492960;
+			
+			// aapt resource value: 0x7f0c0061
+			public const int abc_tint_spinner = 2131492961;
+			
+			// aapt resource value: 0x7f0c0062
+			public const int abc_tint_switch_track = 2131492962;
+			
+			// aapt resource value: 0x7f0c004d
+			public const int accent = 2131492941;
 			
 			// aapt resource value: 0x7f0c0008
 			public const int accent_material_dark = 2131492872;
@@ -1408,8 +1411,8 @@ namespace Diary.Droid
 			// aapt resource value: 0x7f0c0040
 			public const int design_bottom_navigation_shadow_color = 2131492928;
 			
-			// aapt resource value: 0x7f0c005f
-			public const int design_error = 2131492959;
+			// aapt resource value: 0x7f0c0063
+			public const int design_error = 2131492963;
 			
 			// aapt resource value: 0x7f0c0041
 			public const int design_fab_shadow_end_color = 2131492929;
@@ -1435,8 +1438,8 @@ namespace Diary.Droid
 			// aapt resource value: 0x7f0c0048
 			public const int design_snackbar_background_color = 2131492936;
 			
-			// aapt resource value: 0x7f0c0060
-			public const int design_tint_password_toggle = 2131492960;
+			// aapt resource value: 0x7f0c0064
+			public const int design_tint_password_toggle = 2131492964;
 			
 			// aapt resource value: 0x7f0c0016
 			public const int dim_foreground_disabled_material_dark = 2131492886;
@@ -1510,6 +1513,12 @@ namespace Diary.Droid
 			// aapt resource value: 0x7f0c003f
 			public const int notification_material_background_media_default_color = 2131492927;
 			
+			// aapt resource value: 0x7f0c004b
+			public const int primary = 2131492939;
+			
+			// aapt resource value: 0x7f0c004c
+			public const int primaryDark = 2131492940;
+			
 			// aapt resource value: 0x7f0c002b
 			public const int primary_dark_material_dark = 2131492907;
 			
@@ -1558,11 +1567,11 @@ namespace Diary.Droid
 			// aapt resource value: 0x7f0c003a
 			public const int switch_thumb_disabled_material_light = 2131492922;
 			
-			// aapt resource value: 0x7f0c0061
-			public const int switch_thumb_material_dark = 2131492961;
+			// aapt resource value: 0x7f0c0065
+			public const int switch_thumb_material_dark = 2131492965;
 			
-			// aapt resource value: 0x7f0c0062
-			public const int switch_thumb_material_light = 2131492962;
+			// aapt resource value: 0x7f0c0066
+			public const int switch_thumb_material_light = 2131492966;
 			
 			// aapt resource value: 0x7f0c003b
 			public const int switch_thumb_normal_material_dark = 2131492923;
@@ -1575,6 +1584,9 @@ namespace Diary.Droid
 			
 			// aapt resource value: 0x7f0c003e
 			public const int tooltip_background_light = 2131492926;
+			
+			// aapt resource value: 0x7f0c004e
+			public const int window_background = 2131492942;
 			
 			static Color()
 			{
@@ -3304,14 +3316,14 @@ namespace Diary.Droid
 			// aapt resource value: 0x7f090060
 			public const int list_item = 2131296352;
 			
-			// aapt resource value: 0x7f0900c8
-			public const int masked = 2131296456;
+			// aapt resource value: 0x7f0900ca
+			public const int masked = 2131296458;
 			
 			// aapt resource value: 0x7f0900b9
 			public const int media_actions = 2131296441;
 			
-			// aapt resource value: 0x7f0900c6
-			public const int message = 2131296454;
+			// aapt resource value: 0x7f0900c8
+			public const int message = 2131296456;
 			
 			// aapt resource value: 0x7f090030
 			public const int middle = 2131296304;
@@ -3520,6 +3532,9 @@ namespace Diary.Droid
 			// aapt resource value: 0x7f090024
 			public const int showTitle = 2131296292;
 			
+			// aapt resource value: 0x7f0900c6
+			public const int sliding_tabs = 2131296454;
+			
 			// aapt resource value: 0x7f09008b
 			public const int smallLabel = 2131296395;
 			
@@ -3595,6 +3610,9 @@ namespace Diary.Droid
 			// aapt resource value: 0x7f09006e
 			public const int title_template = 2131296366;
 			
+			// aapt resource value: 0x7f0900c7
+			public const int toolbar = 2131296455;
+			
 			// aapt resource value: 0x7f09003d
 			public const int top = 2131296317;
 			
@@ -3631,8 +3649,8 @@ namespace Diary.Droid
 			// aapt resource value: 0x7f090016
 			public const int view_offset_helper = 2131296278;
 			
-			// aapt resource value: 0x7f0900c7
-			public const int visible = 2131296455;
+			// aapt resource value: 0x7f0900c9
+			public const int visible = 2131296457;
 			
 			// aapt resource value: 0x7f0900ab
 			public const int volume_item_container = 2131296427;
@@ -3932,7 +3950,13 @@ namespace Diary.Droid
 			public const int support_simple_spinner_dropdown_item = 2130903106;
 			
 			// aapt resource value: 0x7f030043
-			public const int tooltip = 2130903107;
+			public const int Tabbar = 2130903107;
+			
+			// aapt resource value: 0x7f030044
+			public const int Toolbar = 2130903108;
+			
+			// aapt resource value: 0x7f030045
+			public const int tooltip = 2130903109;
 			
 			static Layout()
 			{
@@ -4673,6 +4697,12 @@ namespace Diary.Droid
 			
 			// aapt resource value: 0x7f0b000e
 			public const int CardView_Light = 2131427342;
+			
+			// aapt resource value: 0x7f0b0199
+			public const int MyTheme = 2131427737;
+			
+			// aapt resource value: 0x7f0b019a
+			public const int MyTheme_Base = 2131427738;
 			
 			// aapt resource value: 0x7f0b002d
 			public const int Platform_AppCompat = 2131427373;
