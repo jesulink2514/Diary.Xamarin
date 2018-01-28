@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+	Title="Login to Diary"
+	x:Class="Diary.LoginPage"
+    BackgroundColor="#096DB9">
+    <Page.Resources>
+        <ResourceDictionary>
+            <Style TargetType="Label">
+                <Setter Property="TextColor" Value="White"/>
+            </Style>
+        </ResourceDictionary>
+    </Page.Resources>
+    <Grid Padding="16">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="auto" />
+        </Grid.RowDefinitions>
+
+        <Label Text="My Diary" FontSize="30"
+               Margin="0,10"
+               HorizontalTextAlignment="Center" Grid.ColumnSpan="2"/>
+
+        <Label Grid.Row="1" Grid.Column="0"
+			x:Name="lblUserName" Text="Username: " />
+        <Entry Grid.Row="1" Grid.Column="1" 
+		 	x:Name="entryUserName" Keyboard="Email" />
+        <Label Grid.Row="2" Grid.Column="0" 
+		 	x:Name="lblPassword" Text="Password: " />
+        <Entry Grid.Row="2" Grid.Column="1" 
+			x:Name="entryPassword" IsPassword="true" />
+
+        <Button Grid.Row="3" Grid.ColumnSpan="2" BackgroundColor="#11B5BD"
+			x:Name="btnLogin" Text="Login to Existing Account" TextColor="White"
+                BorderRadius="25"/>
+
+        <Button Grid.Row="5" x:Name="btnCreateAccount" Text="Create New Account" 
+                Grid.ColumnSpan="2" BackgroundColor="#BD116F"
+                BorderRadius="25" TextColor="White"/>
+    </Grid>
+</ContentPage>
