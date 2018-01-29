@@ -10,5 +10,5 @@ Y en la carpeta **Terminado** encontraras la version final en caso necesites ver
 ## Video post paso a paso
 
 Disponible en **somostechies.com** https://somostechies.com/fingerprint.  
-![]()
+![](/promotional_post.jpg)
 
